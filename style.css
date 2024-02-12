@@ -1,0 +1,47 @@
+body{
+    background-image: url("./Images/Love.jpg");
+    background-size: contain;
+    color: white;
+}
+
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Single Day', cursive;
+}
+
+h2{
+    font-family: 'Honk', system-ui;
+}
+
+/*.but{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    gap: 10px;
+}*/
+
+button{
+    font-size: 20px;
+    color: red;
+}
+
+.title{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.gift1{
+    border-radius: 15px;
+}
